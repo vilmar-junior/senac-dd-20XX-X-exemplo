@@ -7,7 +7,7 @@ import javax.swing.JFrame;
 public class TelaPrincipal {
 	//Alterei esta linha diretamente no github 
 	private JFrame frame;
-	private String nomeCriadoNoEclipse;
+	private String nomeResolvido;
 	/**
 	 * Launch the application.
 	 */
