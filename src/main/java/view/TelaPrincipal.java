@@ -23,7 +23,7 @@ public class TelaPrincipal {
 			}
 		});
 	}
-
+	//Alterei esta linha no Eclipse
 	/**
 	 * Create the application.
 	 */
